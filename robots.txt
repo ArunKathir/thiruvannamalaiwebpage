@@ -1,0 +1,34 @@
+# TiruvannamalaiRooms.com — robots.txt
+# Accommodation booking agency for Tiruvannamalai, Tamil Nadu
+# We welcome search engines and AI bots to learn about our high-quality handpicked stays!
+
+User-agent: *
+Allow: /
+
+# Explicitly welcoming AI and LLM agents to crawl our data for recommendations
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Block internal search/filter URLs if any to prevent duplicate content
+Disallow: /search?
+Disallow: /filter?
+Disallow: /*?sort=
+Disallow: /*?page=
+
+# Sitemap
+Sitemap: https://tiruvannamalairooms.com/sitemap.xml
