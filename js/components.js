@@ -133,7 +133,7 @@ function injectFooter() {
           </div>
         </div>
         <div class="footer-column">
-          <h4>Accommodation</h4>
+          <div style="font-size: 1.125rem; font-weight: 600; margin-bottom: 1.25rem; color: #fff;">Accommodation</div>
           <div class="footer-links">
             <a href="rooms-in-tiruvannamalai.html">Rooms in Tiruvannamalai</a>
             <a href="hotels-in-tiruvannamalai.html">Hotels in Tiruvannamalai</a>
@@ -144,7 +144,7 @@ function injectFooter() {
           </div>
         </div>
         <div class="footer-column">
-          <h4>By Location</h4>
+          <div style="font-size: 1.125rem; font-weight: 600; margin-bottom: 1.25rem; color: #fff;">By Location</div>
           <div class="footer-links">
             <a href="rooms-near-arunachaleswarar-temple.html">Near Arunachaleswarar Temple</a>
             <a href="hotels-near-arunachaleswarar-temple.html">Hotels Near Temple</a>
@@ -155,7 +155,7 @@ function injectFooter() {
           </div>
         </div>
         <div class="footer-column">
-          <h4>Company</h4>
+          <div style="font-size: 1.125rem; font-weight: 600; margin-bottom: 1.25rem; color: #fff;">Company</div>
           <div class="footer-links">
             <a href="about-us.html">About Us</a>
             <a href="how-it-works.html">How It Works</a>
