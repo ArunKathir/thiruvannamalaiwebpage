@@ -1,4 +1,4 @@
-/* ============================================================
+﻿/* ============================================================
    TiruvannamalaiRooms.com — Shared Components
    Injects header, footer, mobile nav, sticky CTA on subpages
    ============================================================ */
@@ -18,7 +18,7 @@ function injectHeader() {
   <header class="site-header" id="site-header">
     <div class="container header-inner">
       <a href="index.html" class="logo" aria-label="Tiruvannamalai Rooms — Home">
-        <img src="assets/images/logo.png" alt="Tiruvannamalai Rooms logo" width="44" height="44">
+        <img src="assets/images/logo.webp" alt="Tiruvannamalai Rooms logo" width="44" height="44">
         <span class="logo-text">
           <span class="brand-name">Tiruvannamalai Rooms</span>
           <span class="brand-tagline">Handpicked Stays</span>
@@ -116,7 +116,7 @@ function injectFooter() {
       <div class="footer-grid">
         <div class="footer-brand">
           <a href="index.html" class="logo" aria-label="Tiruvannamalai Rooms — Home">
-            <img src="assets/images/logo.png" alt="Tiruvannamalai Rooms logo" width="40" height="40">
+            <img src="assets/images/logo.webp" alt="Tiruvannamalai Rooms logo" width="40" height="40">
             <span class="logo-text">
               <span class="brand-name">Tiruvannamalai Rooms</span>
               <span class="brand-tagline">Handpicked Stays</span>
