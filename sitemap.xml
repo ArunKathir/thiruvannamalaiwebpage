@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
@@ -10,37 +10,37 @@
 
   <!-- Primary Accommodation Pages -->
   <url>
-    <loc>https://tiruvannamalairooms.com/rooms-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/rooms-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/hotels-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/hotels-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/best-rooms-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/best-rooms-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/premium-rooms-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/premium-rooms-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/family-rooms-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/family-rooms-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/budget-rooms-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/budget-rooms-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -48,25 +48,25 @@
 
   <!-- Location-Specific Pages -->
   <url>
-    <loc>https://tiruvannamalairooms.com/rooms-near-arunachaleswarar-temple.html</loc>
+    <loc>https://tiruvannamalairooms.com/rooms-near-arunachaleswarar-temple</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/hotels-near-arunachaleswarar-temple.html</loc>
+    <loc>https://tiruvannamalairooms.com/hotels-near-arunachaleswarar-temple</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/rooms-near-ramana-ashram.html</loc>
+    <loc>https://tiruvannamalairooms.com/rooms-near-ramana-ashram</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/rooms-for-girivalam.html</loc>
+    <loc>https://tiruvannamalairooms.com/rooms-for-girivalam</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -74,13 +74,13 @@
 
   <!-- Informational / Guide Pages -->
   <url>
-    <loc>https://tiruvannamalairooms.com/where-to-stay-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/where-to-stay-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/tiruvannamalai-accommodation-guide.html</loc>
+    <loc>https://tiruvannamalairooms.com/tiruvannamalai-accommodation-guide</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -88,55 +88,55 @@
   
   <!-- Blog & Travel Guides -->
   <url>
-    <loc>https://tiruvannamalairooms.com/blog.html</loc>
+    <loc>https://tiruvannamalairooms.com/blog</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Guide Folder -->
-  <url><loc>https://tiruvannamalairooms.com/guide/top-10-places-to-visit-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/annadanam-timings-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/other-ashrams-seshadri-yogi-ramsuratkumar.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/tiruvannamalai-railway-station-train-guide.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/nearby-attractions-parvathamalai-sathanur.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/tiruvannamalai-to-pondicherry-vellore-travel.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/girivalam-route-map-ashta-lingams.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/arunachaleswarar-temple.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/auto-rickshaw-scooty-rentals.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/budget-vs-premium.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/digital-nomad-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/family-travel.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/foreigner-guide-to-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/how-to-book-arunachaleswarar-darshan.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/how-to-do-girivalam-on-pournami.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/ramana-ashram.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/shopping-in-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/transport-within-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/ultimate-girivalam.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/vegetarian-food-guide-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/weather-and-seasons-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/guide/weekend-getaways-from-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/top-10-places-to-visit-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/annadanam-timings-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/other-ashrams-seshadri-yogi-ramsuratkumar</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/tiruvannamalai-railway-station-train-guide</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/nearby-attractions-parvathamalai-sathanur</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/tiruvannamalai-to-pondicherry-vellore-travel</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/girivalam-route-map-ashta-lingams</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/arunachaleswarar-temple</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/auto-rickshaw-scooty-rentals</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/budget-vs-premium</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/digital-nomad-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/family-travel</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/foreigner-guide-to-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/how-to-book-arunachaleswarar-darshan</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/how-to-do-girivalam-on-pournami</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/ramana-ashram</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/shopping-in-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/transport-within-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/ultimate-girivalam</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/vegetarian-food-guide-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/weather-and-seasons-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/guide/weekend-getaways-from-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   
   <!-- Blog Folder -->
-  <url><loc>https://tiruvannamalairooms.com/blog/1-day-tiruvannamalai-itinerary.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/2-day-itinerary.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/ashram-etiquette.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/best-time-to-visit.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/budget-trip-to-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/how-to-travel-chennai-tvm.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/karthigai-deepam-guide.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/meditation-caves-arunachala.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/mysteries-of-arunachala-hill.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/pournami-girivalam-dates.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/ramana-maharshi-teachings-for-beginners.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/solo-travel-safety.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/top-5-places-to-eat.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/what-to-pack-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tiruvannamalairooms.com/blog/yoga-centers-in-tiruvannamalai.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/1-day-tiruvannamalai-itinerary</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/2-day-itinerary</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/ashram-etiquette</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/best-time-to-visit</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/budget-trip-to-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/how-to-travel-chennai-tvm</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/karthigai-deepam-guide</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/meditation-caves-arunachala</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/mysteries-of-arunachala-hill</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/pournami-girivalam-dates</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/ramana-maharshi-teachings-for-beginners</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/solo-travel-safety</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/top-5-places-to-eat</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/what-to-pack-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tiruvannamalairooms.com/blog/yoga-centers-in-tiruvannamalai</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   <!-- Properties -->
   <url>
-    <loc>https://tiruvannamalairooms.com/properties.html</loc>
+    <loc>https://tiruvannamalairooms.com/properties</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -144,105 +144,105 @@
 
   <!-- Trust / Company Pages -->
   <url>
-    <loc>https://tiruvannamalairooms.com/about-us.html</loc>
+    <loc>https://tiruvannamalairooms.com/about-us</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url> 
-    <loc>https://tiruvannamalairooms.com/how-it-works.html</loc>
+    <loc>https://tiruvannamalairooms.com/how-it-works</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/verification-process.html</loc>
+    <loc>https://tiruvannamalairooms.com/verification-process</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/contact.html</loc>
+    <loc>https://tiruvannamalairooms.com/contact</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/faq.html</loc>
+    <loc>https://tiruvannamalairooms.com/faq</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/partner-with-us.html</loc>
+    <loc>https://tiruvannamalairooms.com/partner-with-us</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url> 
 
   <url>
-    <loc>https://tiruvannamalairooms.com/blog/63-nayanmars-history-and-list.html</loc>
+    <loc>https://tiruvannamalairooms.com/blog/63-nayanmars-history-and-list</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <!-- 10 New Spiritual & Meditation Pages -->
   <url>
-    <loc>https://tiruvannamalairooms.com/guide/spiritual-significance-of-arunachala.html</loc>
+    <loc>https://tiruvannamalairooms.com/guide/spiritual-significance-of-arunachala</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/guide/meditation-caves-arunachala.html</loc>
+    <loc>https://tiruvannamalairooms.com/guide/meditation-caves-arunachala</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/guide/yoga-centers-ashrams-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/guide/yoga-centers-ashrams-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/guide/how-to-practice-self-inquiry.html</loc>
+    <loc>https://tiruvannamalairooms.com/guide/how-to-practice-self-inquiry</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/guide/silence-and-solitude-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/guide/silence-and-solitude-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/blog/why-yogis-flock-to-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/blog/why-yogis-flock-to-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/blog/connecting-with-god-through-girivalam.html</loc>
+    <loc>https://tiruvannamalairooms.com/blog/connecting-with-god-through-girivalam</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/blog/the-power-of-self-inquiry-ramana-maharshi.html</loc>
+    <loc>https://tiruvannamalairooms.com/blog/the-power-of-self-inquiry-ramana-maharshi</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/blog/meditation-retreats-in-tiruvannamalai.html</loc>
+    <loc>https://tiruvannamalairooms.com/blog/meditation-retreats-in-tiruvannamalai</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/blog/finding-peace-in-the-spiritual-capital.html</loc>
+    <loc>https://tiruvannamalairooms.com/blog/finding-peace-in-the-spiritual-capital</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -250,19 +250,19 @@
 
   <!-- Legal Pages -->
   <url>
-    <loc>https://tiruvannamalairooms.com/privacy-policy.html</loc>
+    <loc>https://tiruvannamalairooms.com/privacy-policy</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/terms.html</loc>
+    <loc>https://tiruvannamalairooms.com/terms</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://tiruvannamalairooms.com/cancellation-policy.html</loc>
+    <loc>https://tiruvannamalairooms.com/cancellation-policy</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
