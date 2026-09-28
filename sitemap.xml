@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
@@ -266,5 +266,66 @@
     <lastmod>2026-09-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <!-- New SEO Guides & Blogs (Added Sept 2026) -->
+  <url>
+    <loc>https://tiruvannamalairooms.com/guide/girivalam-complete-guide.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/guide/ramana-maharshi-ashram-visitor-guide.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/guide/best-time-to-visit-tiruvannamalai.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/guide/how-to-reach-tiruvannamalai.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/guide/skandasramam-virupaksha-cave-trek.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/blog/spiritual-significance-of-arunachala-hill.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/blog/karthigai-deepam-festival-celebration.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/blog/top-5-places-to-eat-in-tiruvannamalai.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/blog/day-trip-to-sathanur-dam-from-tiruvannamalai.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tiruvannamalairooms.com/blog/finding-peace-meditation-retreats-tiruvannamalai.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

@@ -868,7 +868,6 @@ p {
     position: relative;
     z-index: 1;
     width: 100%;
-    padding: var(--space-8) 0 var(--space-12)
 }
 
 .hero-text {
