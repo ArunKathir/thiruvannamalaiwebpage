@@ -34,6 +34,11 @@ function injectHeader() {
             <a href="premium-rooms-in-tiruvannamalai.html" role="menuitem">Premium Rooms</a>
             <a href="family-rooms-in-tiruvannamalai.html" role="menuitem">Family Rooms</a>
             <a href="budget-rooms-in-tiruvannamalai.html" role="menuitem">Budget Rooms</a>
+            <a href="ac-rooms-in-tiruvannamalai.html" role="menuitem">AC Rooms</a>
+            <a href="homestays-in-tiruvannamalai.html" role="menuitem">Homestays</a>
+            <a href="couple-friendly-rooms-tiruvannamalai.html" role="menuitem">Couple Friendly Rooms</a>
+            <a href="monthly-rooms-rent-tiruvannamalai.html" role="menuitem">Monthly Rentals</a>
+            <a href="luxury-resorts-in-tiruvannamalai.html" role="menuitem">Luxury Resorts</a>
           </div>
         </div>
         <div class="nav-dropdown">
@@ -81,6 +86,11 @@ function injectHeader() {
       <a href="premium-rooms-in-tiruvannamalai.html">Premium Rooms</a>
       <a href="family-rooms-in-tiruvannamalai.html">Family Rooms</a>
       <a href="budget-rooms-in-tiruvannamalai.html">Budget Rooms</a>
+      <a href="ac-rooms-in-tiruvannamalai.html">AC Rooms</a>
+      <a href="homestays-in-tiruvannamalai.html">Homestays</a>
+      <a href="couple-friendly-rooms-tiruvannamalai.html">Couple Friendly Rooms</a>
+      <a href="monthly-rooms-rent-tiruvannamalai.html">Monthly Rentals</a>
+      <a href="luxury-resorts-in-tiruvannamalai.html">Luxury Resorts</a>
       <span class="mobile-nav-group-title">By Location</span>
       <a href="rooms-near-arunachaleswarar-temple.html">Near Temple</a>
       <a href="hotels-near-arunachaleswarar-temple.html">Hotels Near Temple</a>
