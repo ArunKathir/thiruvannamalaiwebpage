@@ -199,7 +199,7 @@ function injectStickyMobileCTA() {
   div.className = 'sticky-cta';
   div.id = 'sticky-cta';
   div.innerHTML = `
-    <a href="index.html" class="btn btn-primary">
+    <a href="index.html#find-my-room" class="btn btn-primary">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
       Find My Room
     </a>
