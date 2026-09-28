@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   initScrollAnimations();
   initFAQ();
   initStickyMobileCTA();
+  initCallFAB();
   initScrollToTop();
   initSmoothScroll();
   initLanguageTranslator();
@@ -161,6 +162,78 @@ function initStickyMobileCTA() {
   );
 
   observer.observe(hero);
+}
+
+/* --- Call FAB --- */
+function initCallFAB() {
+  // Inject call FAB HTML if not already present (covers pages without components.js)
+  if (!document.getElementById('call-fab-wrapper')) {
+    const wrapper = document.createElement('div');
+    wrapper.id = 'call-fab-wrapper';
+    wrapper.className = 'call-fab-wrapper';
+    wrapper.innerHTML = `
+      <div class="call-fab-popup" id="call-fab-popup">
+        <div class="call-fab-popup-arrow"></div>
+        <div class="call-fab-popup-content">
+          <div class="call-fab-popup-header">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+            <span>Call Us Directly</span>
+          </div>
+          <a href="tel:+916385533382" class="call-fab-number">
+            <span class="call-fab-number-text">+91 63855 33382</span>
+            <span class="call-fab-call-btn">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+              Call Us
+            </span>
+          </a>
+          <p class="call-fab-hint">Tap to call now — We're here to help!</p>
+        </div>
+      </div>
+      <button class="call-fab-btn" id="call-fab-btn" aria-label="Call us">
+        <svg class="call-fab-icon" viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+        <span class="call-fab-badge">1</span>
+      </button>`;
+    document.body.appendChild(wrapper);
+  }
+
+  const btn = document.getElementById('call-fab-btn');
+  const popup = document.getElementById('call-fab-popup');
+  if (!btn || !popup) return;
+
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const isOpen = popup.classList.contains('open');
+
+    if (isOpen) {
+      popup.classList.remove('open');
+      btn.classList.remove('active');
+    } else {
+      popup.classList.add('open');
+      btn.classList.add('active');
+      // Remove badge once user has seen the popup
+      const badge = btn.querySelector('.call-fab-badge');
+      if (badge) {
+        badge.classList.add('seen');
+      }
+    }
+  });
+
+  // Close on outside click
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('#call-fab-wrapper')) {
+      popup.classList.remove('open');
+      btn.classList.remove('active');
+    }
+  });
+
+  // Close on Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && popup.classList.contains('open')) {
+      popup.classList.remove('open');
+      btn.classList.remove('active');
+      btn.focus();
+    }
+  });
 }
 
 /* --- Scroll to Top --- */
