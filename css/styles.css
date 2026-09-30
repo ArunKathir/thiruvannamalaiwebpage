@@ -2594,21 +2594,33 @@ body {
   writing-mode: vertical-rl;
   text-orientation: mixed;
   white-space: nowrap;
-  font-size: 0.95rem;
+  font-size: 0; /* Hide original text */
   letter-spacing: 1px;
   transition: all 0.3s ease;
   animation: travelPulse 2s infinite, travelColorShift 4s infinite;
 }
+
+.sticky-travel-btn::after {
+  content: "Let us help you travel / accommodation";
+  font-size: 0.95rem; /* Restore font size */
+}
+
 .sticky-travel-btn:hover {
   transform: translateY(-50%) scale(1.05) translateX(-5px);
   filter: brightness(1.2);
 }
 
+.sticky-travel-btn:hover::after {
+  content: "24/7 Call & WhatsApp Services";
+}
+
 @media (max-width: 768px) {
   .sticky-travel-btn {
     padding: 10px 4px;
-    font-size: 0.8rem;
     border-radius: 6px 0 0 6px;
+  }
+  .sticky-travel-btn::after {
+    font-size: 0.8rem;
   }
 }
 
@@ -2643,4 +2655,139 @@ body {
     transform: translateY(-2px);
     box-shadow: 0 6px 12px -2px rgba(37, 99, 235, 0.3);
     background: linear-gradient(135deg, #60a5fa, #2563eb);
+}
+
+/* --- Travel Blog Article Typography Enhancements --- */
+.article-content {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: #334155;
+}
+
+.article-content p {
+    margin-bottom: 1.5rem;
+}
+
+.article-content h2 {
+    font-size: 2rem;
+    color: var(--navy-800);
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--gold-400);
+    display: inline-block;
+}
+
+.article-content h4 {
+    font-size: 1.25rem;
+    color: var(--navy-700);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    position: relative;
+    padding-left: 1rem;
+    border-left: 4px solid var(--gold-400);
+}
+
+.article-content ul {
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+.article-content li {
+    margin-bottom: 0.5rem;
+    position: relative;
+    list-style: none;
+}
+
+.article-content li::before {
+    content: "✦";
+    position: absolute;
+    left: -1.5rem;
+    color: var(--gold-600);
+}
+
+.article-content blockquote {
+    font-style: italic;
+    background: #f8fafc;
+    border-left: 5px solid var(--gold-500);
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+    color: var(--navy-600);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+/* --- Mega Menu for Desktop --- */
+@media (min-width: 1024px) {
+    .mega-dropdown .mega-menu {
+        min-width: 60vw;
+        max-width: 900px;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: var(--space-6);
+        max-height: 80vh;
+        overflow-y: auto;
+    }
+
+    .mega-menu-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: var(--space-4);
+    }
+}
+
+.mega-menu-title {
+    display: block;
+    font-weight: 700;
+    color: var(--gold-400);
+    margin-bottom: var(--space-3);
+    text-transform: uppercase;
+    font-size: var(--text-xs);
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid rgba(200, 169, 81, 0.2);
+    padding-bottom: var(--space-2);
+}
+
+.mega-menu-column a {
+    display: block;
+    padding: var(--space-1) 0 !important;
+    font-size: var(--text-sm);
+    color: var(--navy-100);
+}
+
+.mega-menu-column a:hover {
+    color: var(--white);
+    background: transparent !important;
+    transform: translateX(4px);
+    transition: transform 0.2s ease;
+}
+
+.mega-menu-view-all {
+    font-weight: 600;
+    color: var(--gold-400) !important;
+    margin-top: var(--space-2);
+}
+
+/* --- Mobile Mega Menu --- */
+.mobile-mega-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2);
+    padding: var(--space-2) 0 var(--space-4) var(--space-4);
+}
+
+.mobile-mega-grid a {
+    font-size: var(--text-xs) !important;
+    padding: var(--space-2) !important;
+    background: rgba(255,255,255,0.05);
+    border-radius: var(--radius-sm);
+    text-align: center;
+}
+
+.mobile-mega-view-all {
+    grid-column: 1 / -1;
+    background: rgba(200, 169, 81, 0.2) !important;
+    color: var(--gold-400) !important;
+    font-weight: 600;
 }

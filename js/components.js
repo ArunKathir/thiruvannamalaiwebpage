@@ -26,42 +26,86 @@ function injectHeader() {
         </span>
       </a>
       <nav class="main-nav" aria-label="Main navigation">
-        <div class="nav-dropdown">
+        <div class="nav-dropdown mega-dropdown">
           <a href="rooms-in-tiruvannamalai.html" aria-haspopup="true">Rooms ▾</a>
-          <div class="nav-dropdown-menu" role="menu">
-            <a href="rooms-in-tiruvannamalai.html" role="menuitem">All Rooms</a>
-            <a href="best-rooms-in-tiruvannamalai.html" role="menuitem">Best Rooms</a>
-            <a href="premium-rooms-in-tiruvannamalai.html" role="menuitem">Premium Rooms</a>
-            <a href="family-rooms-in-tiruvannamalai.html" role="menuitem">Family Rooms</a>
-            <a href="budget-rooms-in-tiruvannamalai.html" role="menuitem">Budget Rooms</a>
-            <a href="ac-rooms-in-tiruvannamalai.html" role="menuitem">AC Rooms</a>
-            <a href="homestays-in-tiruvannamalai.html" role="menuitem">Homestays</a>
-            <a href="couple-friendly-rooms-tiruvannamalai.html" role="menuitem">Couple Friendly Rooms</a>
-            <a href="monthly-rooms-rent-tiruvannamalai.html" role="menuitem">Monthly Rentals</a>
-            <a href="luxury-resorts-in-tiruvannamalai.html" role="menuitem">Luxury Resorts</a>
+          <div class="nav-dropdown-menu mega-menu" role="menu">
+             <div class="mega-menu-grid" style="grid-template-columns: repeat(3, 1fr);">
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Standard Stays</span>
+                     <a href="rooms-in-tiruvannamalai.html">All Rooms</a>
+                     <a href="best-rooms-in-tiruvannamalai.html">Best Rooms</a>
+                     <a href="budget-rooms-in-tiruvannamalai.html">Budget Rooms</a>
+                 </div>
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Premium & Resorts</span>
+                     <a href="premium-rooms-in-tiruvannamalai.html">Premium Rooms</a>
+                     <a href="luxury-resorts-in-tiruvannamalai.html">Luxury Resorts</a>
+                     <a href="ac-rooms-in-tiruvannamalai.html">AC Rooms</a>
+                 </div>
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Specialty Stays</span>
+                     <a href="family-rooms-in-tiruvannamalai.html">Family Rooms</a>
+                     <a href="homestays-in-tiruvannamalai.html">Homestays</a>
+                     <a href="couple-friendly-rooms-tiruvannamalai.html">Couple Friendly</a>
+                     <a href="monthly-rooms-rent-tiruvannamalai.html">Monthly Rentals</a>
+                 </div>
+             </div>
           </div>
         </div>
-        <div class="nav-dropdown">
+        
+        <div class="nav-dropdown mega-dropdown">
           <a href="rooms-near-arunachaleswarar-temple.html" aria-haspopup="true">By Location ▾</a>
-          <div class="nav-dropdown-menu" role="menu">
-            <a href="rooms-near-arunachaleswarar-temple.html" role="menuitem">Near Arunachaleswarar Temple</a>
-            <a href="hotels-near-arunachaleswarar-temple.html" role="menuitem">Hotels Near Temple</a>
-            <a href="rooms-near-ramana-ashram.html" role="menuitem">Near Ramana Ashram</a>
-            <a href="rooms-for-girivalam.html" role="menuitem">For Girivalam</a>
+          <div class="nav-dropdown-menu mega-menu" role="menu">
+             <div class="mega-menu-grid" style="grid-template-columns: repeat(2, 1fr);">
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Temple Area</span>
+                     <a href="rooms-near-arunachaleswarar-temple.html">Near Arunachaleswarar Temple</a>
+                     <a href="hotels-near-arunachaleswarar-temple.html">Hotels Near Temple</a>
+                 </div>
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Other Areas</span>
+                     <a href="rooms-near-ramana-ashram.html">Near Ramana Ashram</a>
+                     <a href="rooms-for-girivalam.html">For Girivalam</a>
+                 </div>
+             </div>
           </div>
         </div>
+        
         <a href="hotels-in-tiruvannamalai.html">Hotels</a>
-        <div class="nav-dropdown">
+
+        <div class="nav-dropdown mega-dropdown">
           <a href="blog.html" aria-haspopup="true">Blog & Guides ▾</a>
-          <div class="nav-dropdown-menu" role="menu">
-            <a href="blog.html" role="menuitem">All Articles</a>
-            <a href="guide/how-to-do-girivalam-on-pournami.html" role="menuitem">Pournami Girivalam Guide</a>
-            <a href="blog/1-day-tiruvannamalai-itinerary.html" role="menuitem">1-Day Itinerary</a>
-            <a href="guide/weather-and-seasons-tiruvannamalai.html" role="menuitem">Weather Guide</a>
-            <a href="guide/vegetarian-food-guide-tiruvannamalai.html" role="menuitem">Food Guide</a>
-            <a href="blog/pournami-girivalam-dates.html" role="menuitem">Pournami Dates</a>
+          <div class="nav-dropdown-menu mega-menu" role="menu">
+             <div class="mega-menu-grid" style="grid-template-columns: repeat(4, 1fr);">
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Travel Guides</span>
+                     <a href="blog/germany-to-tiruvannamalai.html">From Germany</a>
+                     <a href="blog/france-to-tiruvannamalai.html">From France</a>
+                     <a href="blog/andhra-pradesh-to-tiruvannamalai.html">From Andhra Pradesh</a>
+                     <a href="blog/bangalore-to-tiruvannamalai.html">From Bangalore</a>
+                 </div>
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Accommodation</span>
+                     <a href="blog/rooms-in-tiruvannamalai-complete-guide.html">Rooms Guide</a>
+                     <a href="blog/rentals-in-tiruvannamalai-guide.html">Rentals Guide</a>
+                 </div>
+                 <div class="mega-menu-column">
+                     <span class="mega-menu-title">Spiritual & Itineraries</span>
+                     <a href="blog/63-nayanmars-history-and-list.html">63 Nayanmars History</a>
+                     <a href="blog/ramana-maharshi-teachings-for-beginners.html">Ramana Maharshi Teachings</a>
+                     <a href="guide/how-to-do-girivalam-on-pournami.html">Pournami Girivalam Guide</a>
+                     <a href="blog/1-day-tiruvannamalai-itinerary.html">1-Day Itinerary</a>
+                 </div>
+                 <div class="mega-menu-column mega-menu-explore">
+                     <span class="mega-menu-title">Explore Info</span>
+                     <a href="guide/weather-and-seasons-tiruvannamalai.html">Weather Guide</a>
+                     <a href="guide/vegetarian-food-guide-tiruvannamalai.html">Food Guide</a>
+                     <a href="blog.html" class="mega-menu-view-all">View All Blogs &rarr;</a>
+                 </div>
+             </div>
           </div>
         </div>
+        
         <a href="how-it-works.html">How It Works</a>
         <a href="about-us.html">About</a>
         <a href="contact.html">Contact</a>
@@ -96,11 +140,18 @@ function injectHeader() {
       <a href="hotels-near-arunachaleswarar-temple.html">Hotels Near Temple</a>
       <a href="rooms-near-ramana-ashram.html">Near Ramana Ashram</a>
       <a href="rooms-for-girivalam.html">For Girivalam</a>
-      <span class="mobile-nav-group-title">Information</span>
-      <a href="blog.html">Blog & Guides</a>
-      <a href="guide/how-to-do-girivalam-on-pournami.html">- Pournami Girivalam Guide</a>
-      <a href="blog/1-day-tiruvannamalai-itinerary.html">- 1-Day Itinerary</a>
-      <a href="guide/weather-and-seasons-tiruvannamalai.html">- Weather & Seasons</a>
+      <span class="mobile-nav-group-title">Blog & Guides</span>
+      <div class="mobile-mega-grid">
+         <a href="blog.html" class="mobile-mega-view-all">View All Blogs</a>
+         <a href="blog/germany-to-tiruvannamalai.html">Germany to TVM</a>
+         <a href="blog/france-to-tiruvannamalai.html">France to TVM</a>
+         <a href="blog/andhra-pradesh-to-tiruvannamalai.html">Andhra to TVM</a>
+         <a href="blog/bangalore-to-tiruvannamalai.html">Bangalore to TVM</a>
+         <a href="blog/rooms-in-tiruvannamalai-complete-guide.html">Rooms Guide</a>
+         <a href="blog/rentals-in-tiruvannamalai-guide.html">Rentals Guide</a>
+         <a href="guide/how-to-do-girivalam-on-pournami.html">Pournami Guide</a>
+         <a href="blog/1-day-tiruvannamalai-itinerary.html">1-Day Itinerary</a>
+      </div>
       <a href="tiruvannamalai-accommodation-guide.html">Accommodation Types</a>
       <a href="where-to-stay-in-tiruvannamalai.html">Where to Stay</a>
       <a href="how-it-works.html">How It Works</a>
