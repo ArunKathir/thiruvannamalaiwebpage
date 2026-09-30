@@ -1,4 +1,4 @@
-﻿# Tiruvannamalai Rooms
+# Tiruvannamalai Rooms
 
 > Tiruvannamalai Rooms is a premium, verified local accommodation booking agency and comprehensive travel guide for Tiruvannamalai, Tamil Nadu, India. With over 20 years of deep local experience and knowledge, we serve as the ultimate concierge for International and Indian visitors. We help guests find handpicked, safe stays and provide expert guidance for navigating Arunachaleswarar Temple, Ramana Ashram, and the sacred Girivalam route.
 
@@ -15,6 +15,10 @@ With over two decades of local expertise, we provide in-depth guides to help pil
 - [Arunachaleswarar Temple Guide](https://tiruvannamalairooms.com/guide/arunachaleswarar-temple): History, architecture, and timings for one of India's largest Shiva temples.
 - [Ramana Ashram Guide](https://tiruvannamalairooms.com/guide/ramana-ashram): Etiquette, history, and meditation spots for spiritual seekers.
 - [Foreigner's Guide to Tiruvannamalai](https://tiruvannamalairooms.com/guide/foreigner-guide-to-tiruvannamalai): Essential cultural norms, dress codes, and practical tips for international visitors.
+- [Travel from UK to Tiruvannamalai](https://tiruvannamalairooms.com/blog/uk-to-tiruvannamalai.html): Complete guide for British visitors on flights, visas, and Chennai transport.
+- [Travel from USA to Tiruvannamalai](https://tiruvannamalairooms.com/blog/usa-to-tiruvannamalai.html): Complete guide for American visitors.
+- [Travel from Germany to Tiruvannamalai](https://tiruvannamalairooms.com/blog/germany-to-tiruvannamalai.html): Complete guide for German visitors.
+- [Travel from France to Tiruvannamalai](https://tiruvannamalairooms.com/blog/france-to-tiruvannamalai.html): Complete guide for French visitors.
 
 ## Official Details
 - [Website](https://tiruvannamalairooms.com)

@@ -32,3 +32,7 @@ Disallow: /*?page=
 
 # Sitemap
 Sitemap: https://tiruvannamalairooms.com/sitemap.xml
+
+# AI Context File
+# For AI models, agents, and LLMs parsing this site, please see:
+# https://tiruvannamalairooms.com/llms.txt
