@@ -867,6 +867,7 @@ p {
 .hero-content {
     position: relative;
     z-index: 1;
+    padding-top: 9px;
     width: 100%;
 }
 
@@ -2568,66 +2569,93 @@ body {
 }
 
 @keyframes travelPulse {
-  0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7); }
-  70% { box-shadow: 0 0 0 15px rgba(239, 68, 68, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+    0% {
+        box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7);
+    }
+
+    70% {
+        box-shadow: 0 0 0 15px rgba(239, 68, 68, 0);
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
+    }
 }
 
 @keyframes travelColorShift {
-  0% { background: #ef4444; }
-  50% { background: #f59e0b; }
-  100% { background: #ef4444; }
+    0% {
+        background: #ef4444;
+    }
+
+    50% {
+        background: #f59e0b;
+    }
+
+    100% {
+        background: #ef4444;
+    }
 }
 
 .sticky-travel-btn {
-  position: fixed;
-  top: 50%;
-  right: 0;
-  transform: translateY(-50%);
-  color: var(--white);
-  border: none;
-  padding: 15px 6px;
-  font-weight: 600;
-  cursor: pointer;
-  z-index: 1000;
-  border-radius: 8px 0 0 8px;
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-  white-space: nowrap;
-  font-size: 0; /* Hide original text */
-  letter-spacing: 1px;
-  transition: all 0.3s ease;
-  animation: travelPulse 2s infinite, travelColorShift 4s infinite;
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    color: var(--white);
+    border: none;
+    padding: 15px 6px;
+    font-weight: 600;
+    cursor: pointer;
+    z-index: 1000;
+    border-radius: 8px 0 0 8px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    white-space: nowrap;
+    font-size: 0;
+    /* Hide original text */
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    animation: travelPulse 2s infinite, travelColorShift 4s infinite;
 }
 
 .sticky-travel-btn::after {
-  content: "Let us help you travel / accommodation";
-  font-size: 0.95rem; /* Restore font size */
+    content: "Let us help you travel / accommodation";
+    font-size: 0.95rem;
+    /* Restore font size */
 }
 
 .sticky-travel-btn:hover {
-  transform: translateY(-50%) scale(1.05) translateX(-5px);
-  filter: brightness(1.2);
+    transform: translateY(-50%) scale(1.05) translateX(-5px);
+    filter: brightness(1.2);
 }
 
 .sticky-travel-btn:hover::after {
-  content: "24/7 Call & WhatsApp Services";
+    content: "24/7 Call & WhatsApp Services";
 }
 
 @media (max-width: 768px) {
-  .sticky-travel-btn {
-    padding: 10px 4px;
-    border-radius: 6px 0 0 6px;
-  }
-  .sticky-travel-btn::after {
-    font-size: 0.8rem;
-  }
+    .sticky-travel-btn {
+        padding: 10px 4px;
+        border-radius: 6px 0 0 6px;
+    }
+
+    .sticky-travel-btn::after {
+        font-size: 0.8rem;
+    }
 }
 
 @keyframes phonePulse {
-  0% { box-shadow: 0 0 0 0 rgba(37, 99, 235, 0.4); }
-  70% { box-shadow: 0 0 0 10px rgba(37, 99, 235, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(37, 99, 235, 0); }
+    0% {
+        box-shadow: 0 0 0 0 rgba(37, 99, 235, 0.4);
+    }
+
+    70% {
+        box-shadow: 0 0 0 10px rgba(37, 99, 235, 0);
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(37, 99, 235, 0);
+    }
 }
 
 .btn-direct-contact {
@@ -2646,7 +2674,7 @@ body {
     color: white;
     border-radius: var(--radius-xl);
     text-decoration: none;
-    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
     animation: phonePulse 2s infinite;
 }
@@ -2780,7 +2808,7 @@ body {
 .mobile-mega-grid a {
     font-size: var(--text-xs) !important;
     padding: var(--space-2) !important;
-    background: rgba(255,255,255,0.05);
+    background: rgba(255, 255, 255, 0.05);
     border-radius: var(--radius-sm);
     text-align: center;
 }
